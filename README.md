@@ -69,6 +69,14 @@ iris-modeling/
 
 The repository provides results for several ML algorithms. You can compare models and use the best one for your own iris predictions!
 
+
+## 🖼️ Generated Output
+
+<div align="center">
+  <img src="./iris_plot.png" alt="image screenshot" width="680" height="480"/>
+</div>
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repo, create a branch, and open a pull request.
